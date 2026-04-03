@@ -4,7 +4,11 @@ __pycache__/
 build/
 dist/
 wheels/
+<<<<<<< HEAD
 data/
+=======
+data/raw/financial_fraud_detection_dataset.csv
+>>>>>>> fffd02c4f4451780e5ac09c4590d0d67d0524328
 *.egg-info
 
 # Virtual environments
